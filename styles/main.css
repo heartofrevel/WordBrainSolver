@@ -1,0 +1,10 @@
+input {
+	position: relative;
+	display: block;
+	width: 900px;
+	height: 50px;
+	font-size: 40px;
+	top: 100px;
+	left: 500px;
+	margin-top: 10px;
+}
